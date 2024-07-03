@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.csproj.ResolveComReference.cache
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.Form1.resources
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.Properties.Resources.resources
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\radyo\radyo\bin\Debug\radyo.exe.config
+C:\Users\ASUS\source\repos\radyo\radyo\bin\Debug\radyo.exe
+C:\Users\ASUS\source\repos\radyo\radyo\bin\Debug\radyo.pdb
+C:\Users\ASUS\source\repos\radyo\radyo\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\radyo\radyo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.exe
+C:\Users\ASUS\source\repos\radyo\radyo\obj\Debug\radyo.pdb
